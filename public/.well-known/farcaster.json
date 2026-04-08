@@ -9,7 +9,7 @@
     "splashBackgroundColor": "#08080d",
     "webhookUrl": "https://cast-drop.vercel.app/api/webhook",
     "subtitle": "Cast Drop",
-    "description": "**"description": "A one-tap cast generator for Farcaster. Pick a vibe from 12 categories, get a random cast with a matching image, and share it directly to Warpcast.",
+    "description": "A one-tap cast generator for Farcaster. Pick a vibe from 12 categories, get a random cast with a matching image, and share it directly to Warpcast.",
     "primaryCategory": "social"
   },
   "accountAssociation": {
