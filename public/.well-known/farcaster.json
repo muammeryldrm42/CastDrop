@@ -9,7 +9,7 @@
     "splashBackgroundColor": "#08080d",
     "webhookUrl": "https://cast-drop.vercel.app/api/webhook",
     "subtitle": "Cast Drop",
-    "description": "**CastDrop ⚡** — A one-tap cast generator for Farcaster. Pick a vibe from 12 categories (GM, Crypto, DeFi, AI, Trading & more), get a random cast with a matching image, and share it directly to Warpcast. No login, no API keys, no setup. Just drop and cast.",
+    "description": "**"description": "A one-tap cast generator for Farcaster. Pick a vibe from 12 categories, get a random cast with a matching image, and share it directly to Warpcast.",
     "primaryCategory": "social"
   },
   "accountAssociation": {
