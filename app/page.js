@@ -1,7 +1,7 @@
-import { useEffect } from "react";
-import sdk from "@farcaster/frame-sdk";
 "use client";
-import { useState, useCallback } from "react";
+
+import { useCallback, useEffect, useState } from "react";
+import sdk from "@farcaster/frame-sdk";
 
 const IMGS = {
   gm: [
