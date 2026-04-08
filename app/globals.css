@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+:root { --bg: #08080d; --card: #101018; --border: #1e1e2e; }
+body { margin:0; background:var(--bg); color:#e0e0e8; font-family:'JetBrains Mono',monospace; }
+* { box-sizing:border-box; }
