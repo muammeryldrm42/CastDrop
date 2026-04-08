@@ -108,6 +108,7 @@ const C = {
 const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
 
 export default function Home() {
+  useEffect(() => { sdk.actions.ready(); }, []);
   const [cat, setCat] = useState(null);
   const [cast, setCast] = useState("");
   const [img, setImg] = useState("");
